@@ -1,5 +1,5 @@
 # Alphabet Recognizer using CNN
-Predicting Handwritten Digits Using CNN.
+Predicting Handwritten Alphabets Using CNN.
 
 
 # Content :
